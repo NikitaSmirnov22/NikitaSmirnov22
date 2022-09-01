@@ -7,7 +7,7 @@
 - 📌Ask me about - finding a great place to visit in Berlin 🙌🏽
 - My current goal - looking for a working opportunities and collaboration within the field of Data Science✨🌈
 
-<iframe src="https://giphy.com/embed/HUplkVCPY7jTW" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW">via GIPHY</a></p>
+(<iframe src="https://giphy.com/embed/116wwYf3ajIvrG" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-hd-gifsremastered-116wwYf3ajIvrG">via GIPHY</a></p>)
 
 ### Feel free to reach out! 📞
 [<img align="left" alt="linkedin" width="30px" src="assets/linked.png" />](https://www.linkedin.com/in/mykytasmirnov/)
