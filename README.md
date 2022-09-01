@@ -1,5 +1,7 @@
 ### Hi there, I`m Nikita 👾
 
+<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="300" height="300">
+
 ### I`m a Junior Data Scientist with a keen interest in AI and Machine Learning.
 
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany📍
@@ -9,5 +11,5 @@
 
 ### Feel free to reach out)
 
-<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="300" height="300">
+<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif" width="300" height="300">
 
