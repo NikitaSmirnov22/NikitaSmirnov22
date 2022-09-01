@@ -1,4 +1,4 @@
-### Hi there, I`m Nikita 👾!--
+### Hi there, I`m Nikita 👾
 
 ### I`m a Junior Data Scientist with a keen interest in AI and Machine Learning.
 
@@ -8,12 +8,4 @@
 - My current goal - looking for a working opportunities and collaboration within the field of Data Science✨🌈
 
 ### Feel free to reach out🤓
-![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif)
-
-<!-- index.html -->
-<html>
-  <head>
-    <link rel="stylesheet" href="./node_modules/nes.css/css/nes.min.css">
-  </head>
-  <body></body>
-</html>
+![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif) ![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif)
