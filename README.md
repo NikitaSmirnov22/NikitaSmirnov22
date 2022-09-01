@@ -8,4 +8,5 @@
 - My current goal - looking for a working opportunities and collaboration within the field of Data Science✨🌈
 
 ### Feel free to reach out🤓
-![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif) ![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif)
+![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif =250x250) 
+![me](https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif)
