@@ -7,7 +7,7 @@
 - 📌Ask me about - finding a great place to visit in Berlin 🙌🏽
 - My current goal - looking for a working opportunities and collaboration within the field of Data Science✨🌈
 
-### Feel free to reach out🤓
+### Feel free to reach out)
 
-<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="250" height="250"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif" width="300" height="250">
+<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif">
 
