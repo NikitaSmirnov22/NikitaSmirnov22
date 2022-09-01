@@ -10,4 +10,4 @@
 ### Feel free to reach out🤓
 
 <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="250" height="250">
-<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif" width="250" height="250">
+<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerd.gif" width="300" height="250">
