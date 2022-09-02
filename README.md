@@ -18,4 +18,5 @@
 
 Where to find me :
 
- <a href="https://www.linkedin.com/in/mykytasmirnov/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;  <a href=""> <img src=""> </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/mykytasmirnov/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;  <a href="![telegram-cloud-photo-size-2-5228707261214474759-y](https://user-images.githubusercontent.com/107489991/188244398-5f4e5cfb-1387-4a5f-b38b-411c3cb13930.jpg)
+"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>&nbsp;&nbsp;
