@@ -10,5 +10,5 @@
 
 ### [#Feel_free_to_reach_out](https://www.linkedin.com/in/mykytasmirnov/)
 
-<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif">
+<img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy1.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif">
 
