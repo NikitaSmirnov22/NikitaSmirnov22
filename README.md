@@ -17,3 +17,5 @@
 <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy2.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif">
 
 Where to find me :
+
+ <a href="https://www.linkedin.com/in/mykytasmirnov/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;  <a href="https://acmeco.slack.com/team/U03LG4P2Y31"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>&nbsp;&nbsp;
