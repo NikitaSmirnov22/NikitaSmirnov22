@@ -1,4 +1,4 @@
-### Hi there, I`m Nikita 👋
+### Hello there, I`m Nikita 👋
 
 ### I`m a data scientist with a keen interest in AI and Machine Learning.
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany📍
