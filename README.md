@@ -8,7 +8,7 @@
 
 @Ask me about - finding a great place to visit in Berlin 🙌🏽🔝
 
-### #[Feel_free_to_reach_out](https://www.linkedin.com/in/mykytasmirnov/)
+### [#Feel_free_to_reach_out](https://www.linkedin.com/in/mykytasmirnov/)
 
 <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif">
 
