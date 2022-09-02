@@ -1,4 +1,4 @@
-### Hi there, I`m Nikita 👾 🦄
+### Hi there, I`m Nikita 👋
 
 ### I`m a data scientist with a keen interest in AI and Machine Learning.
 
