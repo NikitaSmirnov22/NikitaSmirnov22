@@ -5,10 +5,10 @@
   
 #### Things I code with :
 
-<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 
-### I`m a junior data scientist with a keen interest in AI and Machine Learning.
+### I`m a Junior Data Scientist with a keen interest in AI and Machine Learning.
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany📍
 - Now, I`m primarily focusing on the implementation of the various Artificial Neural Network algorithms used for solving [object detection tasks](https://medium.com/data-from-the-trenches/object-detection-with-deep-learning-on-aerial-imagery-2465078db8a9)🕵🏻‍♂️🛣
 - My current goal #1 - looking for working opportunities and collaboration within fintech companies interested in the Junior Data Science specialist ✨🌈
