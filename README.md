@@ -1,6 +1,7 @@
 ### Hello there, I`m Nikita 👋
 
 **Things I code with 
+
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 ### I`m a junior data scientist with a keen interest in AI and Machine Learning.
