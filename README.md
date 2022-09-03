@@ -16,8 +16,6 @@
 - My current goal #1 - looking for working opportunities and collaboration within fintech companies interested in the Junior Data Science specialist ✨🌈
 
 **You may see a list of the data science projects by following this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022).**
- 
-### [#Feel_free_to_reach_out](https://www.linkedin.com/in/mykytasmirnov/)
 
 <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy2.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif">
 
