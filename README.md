@@ -5,7 +5,7 @@
 - My current goal #1 - looking for working opportunities and collaboration within fintech companies interested in the Junior Data Science specialist.
 
 
-**CLick this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
+**Click this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
