@@ -3,7 +3,7 @@
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany.
 - Now, I`m primarily focusing on the implementation of the various Artificial Neural Network algorithms used for solving [object detection tasks](https://medium.com/data-from-the-trenches/object-detection-with-deep-learning-on-aerial-imagery-2465078db8a9).
 - My current goal #1 - looking for working opportunities and collaboration within fintech companies interested in the Junior Data Science specialist.
-You may see a list of the data science projects by following this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022).
+**You may see a list of the data science projects by following this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022).
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
@@ -16,3 +16,6 @@ You may see a list of the data science projects by following this [link](https:/
 
 ### Where to find me :
  <a href="https://www.linkedin.com/in/mykytasmirnov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/nikitasmirnov22"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
+ 
+ 
+ <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/giphy2.gif" width="300" height="300"> <img src="https://github.com/NikitaSmirnov22/git_for_geeks/blob/main/nerdo.gif"> 
