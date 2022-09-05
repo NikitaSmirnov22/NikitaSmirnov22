@@ -1,5 +1,5 @@
 # Hello there, I`m Nikita !
-### I`m a Junior Data Scientist with a keen interest in AI and Machine Learning.
+### I`m a Data Scientist with a keen interest in AI and Machine Learning.
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany.
 - Now, I`m primarily focusing on the implementation of the various Artificial Neural Network algorithms used for solving [object detection tasks](https://medium.com/data-from-the-trenches/object-detection-with-deep-learning-on-aerial-imagery-2465078db8a9).
 - My current goal #1 - looking for working opportunities and collaboration within fintech companies interested in the Junior Data Science specialist.
