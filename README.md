@@ -1,8 +1,9 @@
 # Welcome everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
-- I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany.
-- To see my projects portfolio, click [here](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)
-- Currently, available for working opportunities and collaboration).
+**About me:**
+- Finished my BA in the field of Economics and MA in International Finance. 
+- Currently, available for working opportunities and collaboration.
+- In love with chess and would welcome anyone to join me in chess.com)
 
 
 **Click this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
