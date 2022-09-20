@@ -1,7 +1,7 @@
 # Hi there! 
-### My name is Nikita. I`m a Data Scientist with a keen interest in AI and Machine Learning.
+### I`m a Data Scientist with a keen interest in AI and Machine Learning.
 **About me:**
-- Finished my BA in the field of Economics and MA in International Finance. 
+- Finished my BA in the field of Economics and MA in International Finance(M&A thesis). 
 - Currently, available for working opportunities and collaboration.
 - In love with chess and would welcome anyone to join me on chess.com (nickname: shax_i_mat).
 
