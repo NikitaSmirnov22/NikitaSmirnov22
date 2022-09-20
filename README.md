@@ -1,8 +1,8 @@
-# Hello there, I`m Nikita !
+# Nikita Smirnov
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany.
-- Now, I`m primarily focusing on the implementation of the various Artificial Neural Network algorithms used for solving [object detection tasks](https://medium.com/data-from-the-trenches/object-detection-with-deep-learning-on-aerial-imagery-2465078db8a9).
-- Currently, open to working opportunities and collaboration within companies looking for a Data Science specialist.
+- To see my projects portfolio, click [here](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)
+- Currently, available for working opportunities and collaboration).
 
 
 **Click this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
