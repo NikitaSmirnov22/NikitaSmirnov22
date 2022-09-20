@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
 - I`m currently finishing up my final project at an [awesome coding bootcamp](https://www.spiced-academy.com/en) in Berlin, Germany.
 - To see my projects portfolio, click [here](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)
