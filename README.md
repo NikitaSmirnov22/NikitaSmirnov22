@@ -1,4 +1,4 @@
-# Hello! 
+# Hello everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
 **About me:**
 - Finished my BA in the field of Economics and MA in International Finance(M&A thesis). 
