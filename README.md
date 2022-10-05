@@ -1,11 +1,12 @@
 # Hello everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
-##Education:
-
+#### Education:
 **Taras Schevchenko National University, Kyiv(Ukraine)**
 **BA International Economic Relations**
 *Sep 2017 - May 2021*
-
+(Econometrics • Descriptive Statistics • 
+Inferential Statistics • Financial Management
+• International Business • Marketing)
 
 **Click this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
 
