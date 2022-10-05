@@ -1,9 +1,9 @@
 # Hello everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
-**About me:**
-- Finished my BA in the field of Economics and MA in International Finance(M&A thesis). 
-- Currently, available for working opportunities and collaboration.
-- In love with chess and would welcome everyone to join me on chess.com (nickname: shax_i_mat).
+**Education:**
+**Taras Schevchenko National University, Kyiv(Ukraine)**
+**BA International Economic Relations**
+*Sep 2017 - May 2021*
 
 
 **Click this [link](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) to see my data science portfolio.**
