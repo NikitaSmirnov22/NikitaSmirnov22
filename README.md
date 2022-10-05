@@ -1,4 +1,4 @@
-# Welcome everyone! 
+# Welcome everyone!🌈🌟🦄
 **Here you may find my [Data Science projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)**
 
 ### Find me on:
