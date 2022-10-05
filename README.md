@@ -5,7 +5,7 @@
 > 
 > BA International Economic Relations (*Sep 2017 - May 2021*)
 > 
-> Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
+> Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing**
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
