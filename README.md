@@ -1,4 +1,8 @@
-## Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects.
+# Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects.
+
+
+
+
 ## Education
 > ### Taras Schevchenko National University, Kyiv(Ukraine)
 > 
