@@ -1,6 +1,5 @@
 # Welcome everyone! 
-
-## Here you may find my [data science projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)
+**Here you may find my [data science projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)**
 
 
 ## Working experience
