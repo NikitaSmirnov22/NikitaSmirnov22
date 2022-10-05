@@ -1,3 +1,4 @@
+> ## Welcome everyone! Here you may find my [data science projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)
 
 ## Working experience
 > ### Rosava Inc., Bila-Tserkva(Ukraine)
@@ -27,8 +28,6 @@
 > **MA International Finance *(Sep 2021 - May 2022)***
 >
 > FDI | Big Data and Business Analytics | Cost Accounting | Financial Statement Analysis | Managerial Economics
-
-**Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects.**
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
