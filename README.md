@@ -11,7 +11,7 @@
 > 
 > ### Wicresoft Inc., Shanghai(China)
 > 
-> **Business Development Manager, Analyst *(June 2019 - September 2019)***
+> **Business Development Analyst *(June 2019 - September 2019)***
 >
 > Evaluated analytical model findings covering FEX, Bond, Private Equity, and IPO Markets augmenting working team performance up to 20% 
 > Conducted 92% successful A/B testing of the company`s technology platform application “WISE”
