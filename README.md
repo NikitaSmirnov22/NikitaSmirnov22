@@ -1,9 +1,13 @@
 # Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects portfolio.**
-## About me 
+
 ### ■ Education:
+
 ** Taras Schevchenko National University, Kyiv(Ukraine)**
+
 **BA International Economic Relations**
+
 *Sep 2017 - May 2021*
+
 (Econometrics • Descriptive Statistics • 
 Inferential Statistics • Financial Management
 • International Business • Marketing)
