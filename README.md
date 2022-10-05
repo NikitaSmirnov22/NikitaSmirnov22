@@ -1,7 +1,6 @@
 # Hello everyone! 
 ### I`m a Data Scientist with a keen interest in AI and Machine Learning.
-##Education:\n
-**Taras Schevchenko National University, Kyiv(Ukraine)**
+##Education:/n**Taras Schevchenko National University, Kyiv(Ukraine)**
 **BA International Economic Relations**
 *Sep 2017 - May 2021*
 
