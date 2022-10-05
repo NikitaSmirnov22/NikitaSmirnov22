@@ -7,7 +7,9 @@
 > 
 > Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
 > 
-> **MA International Finance
+> **MA International Finance *(Sep 2021 - May 2022)* **
+> 
+> FDI | Big Data and Business Analytics | Cost Accounting | Financial Statement Analysis | Managerial Economics
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
