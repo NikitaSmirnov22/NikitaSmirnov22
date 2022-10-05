@@ -1,6 +1,20 @@
-**Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects.**
 
-
+## Working experience
+> ### Rosava Inc., Bila-Tserkva(Ukraine)
+> 
+> **Data Scientist *(May 2021 - June 2022)***
+> 
+> Improved tires website recommender system using GBDT + LR algorithm by 15% 
+> Delivered a better customer experience and increased sales by up to 20%
+> Deployed EC2 machines and RDS on AWS and Microsoft Azure cloud platforms with a 100% smooth operation cycle
+> Collaborated with multidisciplinary teams on multiplying the level of CSR to 8%
+> 
+> ### Wicresoft Inc., Shanghai(China)
+> 
+> **Business Development Manager, Analyst *(June 2019 - September 2019)***
+>
+> Evaluated analytical model findings covering FEX, Bond, Private Equity, and IPO Markets augmenting working team performance up to 20% 
+> Conducted 92% successful A/B testing of the company`s technology platform application “WISE”
 
 
 ## Education
@@ -13,6 +27,8 @@
 > **MA International Finance *(Sep 2021 - May 2022)***
 >
 > FDI | Big Data and Business Analytics | Cost Accounting | Financial Statement Analysis | Managerial Economics
+
+**Welcome everyone! Here you may find [fruits](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022) of my data science projects.**
 
 ### Operational systems :
 <img alt="mac os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
