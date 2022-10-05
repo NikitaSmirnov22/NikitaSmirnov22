@@ -4,17 +4,17 @@
 > 
 > **Data Scientist *(May 2021 - June 2022)***
 > 
-> Improved tires website recommender system using GBDT + LR algorithm by 15% 
-> Delivered a better customer experience and increased sales by up to 20%
-> Deployed EC2 machines and RDS on AWS and Microsoft Azure cloud platforms with a 100% smooth operation cycle
-> Collaborated with multidisciplinary teams on multiplying the level of CSR to 8%
+> * Improved tires website recommender system using GBDT + LR algorithm by 15% 
+> * Delivered a better customer experience and increased sales by up to 20%
+> * Deployed EC2 machines and RDS on AWS and Microsoft Azure cloud platforms with a 100% smooth operation cycle
+> * Collaborated with multidisciplinary teams on multiplying the level of CSR to 8%
 > 
 > ### Wicresoft Inc., Shanghai(China)
 > 
 > **Business Development Analyst *(June 2019 - September 2019)***
 >
-> Evaluated analytical model findings covering FEX, Bond, Private Equity, and IPO Markets augmenting working team performance up to 20% 
-> Conducted 92% successful A/B testing of the company`s technology platform application “WISE”
+> * Evaluated analytical model findings covering FEX, Bond, Private Equity, and IPO Markets augmenting working team performance up to 20% 
+> * Conducted 92% successful A/B testing of the company`s technology platform application “WISE”
 
 
 ## Education
