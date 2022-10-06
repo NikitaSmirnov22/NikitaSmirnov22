@@ -26,11 +26,11 @@
 ## Education
 > ### Taras Schevchenko National University, Kyiv(Ukraine)
 > 
-> **BA International Economic Relations *(Sep 2017 - May 2021)***
+> **BA International Economic Relations and Statistics *(Sep 2017 - May 2021)***
 > 
 > Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
 > 
-> **MA Big Data in International Finance *(Sep 2021 - May 2022)***
+> **MA International Finance *(Sep 2021 - May 2022)***
 >
 > FDI | Big Data and Business Analytics | Cost Accounting | Financial Statement Analysis | Managerial Economics
 
