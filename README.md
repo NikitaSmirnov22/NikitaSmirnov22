@@ -30,7 +30,7 @@
 > 
 > Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
 > 
-> **MA International Finance and Big Data*(Sep 2021 - May 2022)***
+> **MA International Finance and Big Data *(Sep 2021 - May 2022)***
 >
 > FDI | Big Data and Business Analytics | Cost Accounting | Financial Statement Analysis | Managerial Economics
 
