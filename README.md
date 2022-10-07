@@ -15,6 +15,14 @@
 > * Deployed EC2 machines and RDS on AWS and Microsoft Azure cloud platforms with a 100% smooth operation cycle
 > * Collaborated with multidisciplinary teams on multiplying the level of CSR to 8%
 > 
+> ### Mighty Digital, Lviv(Ukraine)
+> 
+> **Junior Data Scientist *(November 2019 - August 2020)***
+>
+> * Improved marketing campaigns results by 20% targeted to particular customers segments
+> * Managed customer behavior predictive modeling in cooperation with the marketing team
+> * AppliedvalidationframeworksofMultilabel,Binaryclassification,andRegressiontaskswith85%efficiency
+> 
 > ### Wicresoft Inc., Shanghai(China)
 > 
 > **Business Development Analyst *(June 2019 - September 2019)***
