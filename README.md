@@ -10,7 +10,7 @@
 > 
 > **BA International Economic Relations and Statistical Science *(Sep 2017 - May 2021)***
 > 
-> Econometrics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
+> Econometrics | Mathematics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
 > 
 > **MA International Finance and Big Data *(Sep 2021 - May 2022)***
 >
