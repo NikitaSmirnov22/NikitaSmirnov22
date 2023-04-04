@@ -1,35 +1,9 @@
 # Welcome everyone!🌈🌟🦄
-**Here you may find my [Data Science projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)**!
+**Here you may find my [Projects](https://github.com/NikitaSmirnov22/SPICED_PROJECTS_2022)**!
 
 ### Follow me on:
 
  <a href="https://www.linkedin.com/in/mykytasmirnov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/nikitasmirnov22"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
- 
-## Working experience
-> ### Rosava Inc., Bila-Tserkva(Ukraine)
-> 
-> **Data Scientist *(May 2021 - June 2022)***
-> 
-> * Improved tires website recommender system using GBDT + LR algorithm by 15% 
-> * Delivered a better customer experience and increased sales by up to 20%
-> * Deployed EC2 machines and RDS on AWS and Microsoft Azure cloud platforms with a 100% smooth operation cycle
-> * Collaborated with multidisciplinary teams on multiplying the level of CSR to 8%
-> 
-> ### Mighty Digital, Lviv(Ukraine)
-> 
-> **Junior Data Scientist *(November 2019 - August 2020)***
->
-> * Improved marketing campaigns results by 20% targeted to particular customers segments
-> * Managed customer behavior predictive modeling in cooperation with the marketing team
-> * AppliedvalidationframeworksofMultilabel,Binaryclassification,andRegressiontaskswith85%efficiency
-> 
-> ### Wicresoft Inc., Shanghai(China)
-> 
-> **Business Development Analyst *(June 2019 - September 2019)***
->
-> * Evaluated analytical model findings covering FEX, Bond, Private Equity, and IPO Markets augmenting working team performance up to 20% 
-> * Conducted 92% successful A/B testing of the company`s technology platform application “WISE”
-
 
 ## Education
 > ### Taras Schevchenko National University, Kyiv(Ukraine)
