@@ -1,5 +1,5 @@
-## My Stack
-**Core:** Python 3, pip, venv
+## TechStack
+> **Core:** Python 3, pip, venv
 **Automation: **Ansible
 **Containerization:** Docker, Kubernetes
 **Monitoring/Logging:** Prometheus, ELK Stack
