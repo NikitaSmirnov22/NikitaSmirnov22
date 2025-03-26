@@ -29,7 +29,7 @@
 > 
 > **AI**: TensorFlow/PyTorch, spaCy, PyOD, Scikit-learn, LangChain, LLMs
 ## Education
-> ### Taras Schevchenko National University, Kyiv(Ukraine)
+> ### Taras Schevchenko National University, Kyiv - Ukraine
 > 
 > **BA International Economic Relations and Statistical Science *(Sep 2017 - May 2021)***
 > Econometrics | Mathematics | Descriptive Statistics | Inferential Statistics | Financial Management | International Business | Marketing
