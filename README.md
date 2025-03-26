@@ -1,20 +1,33 @@
 ## TechStack
 > **Core:** Python 3, pip, venv
-**Automation: **Ansible
-**Containerization:** Docker, Kubernetes
-**Monitoring/Logging:** Prometheus, ELK Stack
-**Version Control:** Git
-**CI/CD:** Jenkins, GitLab CI, or GitHub Actions
-**IaC:** Terraform
-**Development:** PyCharm, VS Code, or Jupyter Notebook
-**Testing:** Pytest
-**Documentation:** Sphinx or MkDocs
-**Logging:** Python’s logging module
-**Database:** SQLAlchemy or MongoDB
-**Web:** Django or Flask
-**Cloud:** AWS, Azure
-**Security:** Bandit, Safety
-
+> 
+> **Automation:** Ansible
+> 
+> **Containerization:** Docker, Kubernetes
+> 
+> **Monitoring/Logging:** Prometheus, ELK Stack
+> 
+> **Version Control:** Git
+> 
+> **CI/CD:** Jenkins, GitLab CI, or GitHub Actions
+> 
+> **IaC:** Terraform
+> 
+> **Development:** PyCharm, VS Code, or Jupyter Notebook
+> 
+> **Testing:** Pytest
+> 
+> **Logging:** Python’s logging module
+> 
+> **Database:** SQLAlchemy or MongoDB
+> 
+> **Web:** Django or Flask
+> 
+> **Cloud:** AWS, Azure
+> 
+> **Security:** Bandit, Safety
+> 
+> **AI**: TensorFlow/PyTorch, spaCy, PyOD, Scikit-learn, LangChain, LLMs
 ## Education
 > ### Taras Schevchenko National University, Kyiv(Ukraine)
 > 
