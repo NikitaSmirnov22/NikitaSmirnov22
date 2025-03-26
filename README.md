@@ -1,8 +1,6 @@
-# Hi
+## Hi Stranger!
 
-### Follow me on:
-
- <a href="https://www.linkedin.com/in/mykytasmirnov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/nikitasmirnov22"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
+### Follow me on: <a href="https://www.linkedin.com/in/mykytasmirnov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 ## Education
 > ### Taras Schevchenko National University, Kyiv(Ukraine)
